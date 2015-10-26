@@ -1,0 +1,33 @@
+.OpenSans {
+    font-family: 'OpenSansLI';
+}
+.Tahoma {
+    font-family: 'Tahoma';
+}
+@font-face{
+    font-family: 'RobotoR';
+    src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: 'Tahoma';
+    src: url("../fonts/tahoma.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: 'OpenSansLI';
+    src: url("../fonts/OpenSans-LightItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: 'Arkhip';
+    src: url("../fonts/Arkhip_font.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
